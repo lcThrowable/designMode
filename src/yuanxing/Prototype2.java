@@ -87,8 +87,6 @@ public class Prototype2 implements Cloneable, Serializable {
 
     }
 
-
-
 }
 
 
